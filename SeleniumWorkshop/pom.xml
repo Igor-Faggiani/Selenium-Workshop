@@ -33,6 +33,12 @@
             <version>${selenium.version}</version>
         </dependency>
 
+        <dependency>
+            <groupId>ch.qos.logback</groupId>
+            <artifactId>logback-classic</artifactId>
+            <version>1.4.14</version> <!-- Use a versão mais recente -->
+        </dependency>
+
         <!-- WebDriverManager -->
         <dependency>
             <groupId>io.github.bonigarcia</groupId>
@@ -40,6 +46,8 @@
             <version>${webdrivermanager.version}</version>
         </dependency>
     </dependencies>
+
+
 
     <build>
         <plugins>
