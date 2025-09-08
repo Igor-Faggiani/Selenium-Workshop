@@ -1,10 +1,11 @@
 # 🧪 Selenium Workshop
 Este repositório contém os materiais e exemplos desenvolvidos no Workshop de Selenium, realizado como parte da disciplina Testes de Software do curso de Engenharia de Software - UDESC.
 
-O site utilizado como ambiente de prática foi o Demo Automation Testing
-, uma aplicação voltada para experimentação e aprendizado de automação de testes.
+O site utilizado como ambiente de prática foi o [Demo Automation Testing](https://demo.automationtesting.in/Register.html), uma aplicação voltada para experimentação e aprendizado de automação de testes.
 
 📚 Contexto
+
+Alunos: Igor Faggiani, Endrik Thibes e Eduardo de Macedo
 
 Disciplina: Testes de Software
 
