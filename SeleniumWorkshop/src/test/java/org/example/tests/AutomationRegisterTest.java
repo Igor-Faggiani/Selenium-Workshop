@@ -42,7 +42,6 @@ public class AutomationRegisterTest {
      */
     @Test
     void testePreencherFormularioComDadosValidos() {
-        // Entradas de dados conforme o documento [cite: 107, 108, 109, 110, 111]
         driver.findElement(By.xpath("//input[@placeholder='First Name']")).sendKeys("Fulano");
         driver.findElement(By.xpath("//input[@placeholder='Last Name']")).sendKeys("da Silva");
         driver.findElement(By.tagName("textarea")).sendKeys("Rua Exemplo, 123");
